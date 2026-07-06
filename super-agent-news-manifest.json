@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "finance.biggo.com",
+      "title": "Tesla Imposes $200 Weekly AI Spending Cap, Exempts Musk's Grok",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aY2luM240MGR5cE1fNzlNbzB0UzJ6SUk1RHQ3SUliRmJQSE0wRDczWEV3c21nNzFzZDJWdXRLQTBZRm9LX2doNVJCUWR5SWVzcGxJX2dfMmhNT1QtbDZmZlc2Ny11SWlKWVBwc3g4TXM2RmYweHc"
+    },
+    {
+      "source": "ai-phoneislam.com",
+      "title": "Elon Musk\u2019s AI \u2018Grok\u2019 Officially Arrives on iPhone CarPlay",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaURsZWl5cHZETElmRVBZams2dlpFNEZ4SjlWMm1BR1A4VktqZVVYS0ZVU01xRWQxengzQzNUV1diMlNIRlZPTGFIeHZjUzhIaUZtRWh1cTNTWmhsdWpIUVZob2x4aHB3UDRDUTVURUstY0NRdG96LXBudmNHWkVlTmhrWWI4S29rRkY0UGhzV1d0eFhoMGVaRUpQNUF2d1lLMkpvODJPOXNDQQ"
+    },
+    {
+      "source": "TestingCatalog AI News",
+      "title": "xAI debuts Grok Voice Agent Builder for Enterprises",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUZ2R25FVHFfZkk0QTEwWXZNeXRJbE5LNnhSVi05RWdfZmFtTklUSXcxaHhWcEVOWlo5Rzh1R29acnVUdlJXaUUydGxSTVVCWkF0cEtsZkt5QTQ5OTVQWU9CbUxYUjRPTFpqNTlvcW1nN0RwclJHX212X1lpRWwyWE82Tld4Sk1Rb0ZVd0xpaVl0LWs"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "MSN",
+      "title": "Cisco to give all 90,000 employees personal AI agents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2026/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from 'Super vs Grok|competitor_comparison|people comparing Super with Grok|2026-07-06T11:15:16.388019+00:00' \u2192 selected hero architecture 'comparison-lab'. AIDA Check: Attention (wide editorial hero), Interest (market context + comparison grid), Desire (workflow media + cache explanation), Action (CTA band). Font Selection: Cabinet Grotesk (brand reference compliant). Hero Math Verification: clamp(44px\u201372px) with max-width 1100px for 2\u20133 line flow. Bento Density Verification: compare-grid uses grid-auto-flow:dense. GSAP Motion Selection: card-stacking + hover-physics. Label Sweep & Button Check: primary CTA black pill to app.getsupers.com, secondary white pill present.",
+  "generated_at": "2026-07-06T11:16:42.167254+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats. Previous comparison-page failures omitted visible buyer-guide and decision-matrix language even when the article was useful; that must never happen. The visible page must include the exact phrases Buyer guide and Decision matrix.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super and Grok for people evaluating personal AI agents. Grok shines as a real\u2011time, voice\u2011first assistant. Super is positioned for repeated computer\u2011use workflows thanks to its reusable computer\u2011use cache."
+}
